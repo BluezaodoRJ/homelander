@@ -1,0 +1,48 @@
+ 
+
+{
+    color: red;
+    border: 5px solid red;
+    text-align: ;
+
+
+}
+
+h2{
+
+    text-align: center;
+    margin-top: 40px;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 5px;
+    
+
+
+}
+
+p{
+   
+margin-top: 40px;
+width: 800px;
+margin-left: 300px;
+color: white;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+text-transform: uppercase;
+
+
+
+}
+
+body{
+background-image: url(omegasymbol.png);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 5px;
+    color: white;
+
+
+}
